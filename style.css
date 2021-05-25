@@ -32,6 +32,9 @@ footer{
     bottom: 0;
     left: 0;
     position: fixed;
+    height: 30px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
 }
 ::-webkit-scrollbar{
     width: 10px;
