@@ -5,5 +5,8 @@ p{
 h1{
     text-align: center;
     text-decoration: underline;
-    
+    color: black;
+}
+body{
+    background-color: green;
 }
