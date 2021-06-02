@@ -64,7 +64,7 @@ nav a{
     color: cadetblue;
     text-align: center;
     padding-top: 7px;
-    padding: 14px 105.2px;
+    padding: 14px 114.2px;
     text-decoration: none;
     font-size: 15px;
     float: left;
@@ -77,4 +77,19 @@ nav a:hover{
 nav a.active{
     background-color: blue;
     color: white;
+}
+.info-image-left{
+    width: 1000px;
+    background-color:chartreuse;
+    text-align: right;
+    color: black;
+}
+.info-image-right{
+    width: 1000px;
+    background-color: rgb(53, 94, 12);
+    text-align: left;
+    color: white;
+}
+div{
+    text-align: center;
 }
