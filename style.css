@@ -11,13 +11,13 @@ h1{
 body{
     background-color: green;
 }
-#index-main{
+.section-mains{
     width: 700px;
     margin-left: auto;
     margin-right: auto;
     background-color: greenyellow;
 }
-#index-main p{
+.section-mains p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     text-align: center;
