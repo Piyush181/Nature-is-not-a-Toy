@@ -48,6 +48,9 @@ footer{
 ::-webkit-scrollbar-button{
     background-color: black;   
 }
+::-webkit-scrollbar-button:hover{
+    background-color: blue;
+}
 ::-webkit-scrollbar-thumb:hover{
     background-color: blue;
 }
