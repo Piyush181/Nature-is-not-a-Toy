@@ -94,16 +94,41 @@ nav a.active{
     vertical-align: middle;
     display: inline;
     float: right;
-    vertical-align: middle;
     text-align: right;
 }
 .info-image-left img{
     float: left;
 }
-div{
-    text-align: center;
-}
 .text-holder-right{
     width: 750px;
     float:right;
+}
+.text-holder-left{
+    width: 750px;
+    float:left;
+}
+.info-image-right{
+    width: 1000px;
+    background-color:rgb(11, 68, 11);
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info-image-right img{
+    float: right;
+}
+.info-image-right p{
+    color:white;
+    font-size: 20px;
+    vertical-align: middle;
+    display: inline;
+    float: left;
+    text-align: left;
+}
+div{
+    text-align: center;
+}
+hr{
+    border: 1px black;
+    width: 100%;
 }
