@@ -81,17 +81,42 @@ nav a.active{
     background-color: blue;
     color: white;
 }
-.info-image-left{
+.info{
     width: 1000px;
     background-color:chartreuse;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info-image-left-p p{
     text-align: right;
     color: black;
+    font-size: 20px;
+    vertical-align: middle;
 }
-.info-image-right{
-    width: 1000px;
-    background-color: rgb(53, 94, 12);
+.info-image-right-p p{
     text-align: left;
     color: white;
+    font-size: 20px;
+    vertical-align: middle;
+}
+.info-image-left-p{
+    width: 749px;
+    margin-left: auto;
+    height: 250px;
+}
+.info-image-left{
+    height: 250px;
+    margin-right: auto;
+    width: 250px;
+    background-color: black;
+}
+.info-image-left img{
+    height: 250px;
+}
+.info-image-right{
+    text-align: right;
+    height: 250px;
 }
 div{
     text-align: center;
