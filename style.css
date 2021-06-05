@@ -8,6 +8,11 @@ h1{
     color: black;
     font-size: 50px;
 }
+body.info{
+    background-color: green;
+    margin-left: 160px;
+    padding: 0px 10px;
+}
 body{
     background-color: green;
 }
@@ -103,9 +108,19 @@ nav a.active{
     width: 750px;
     float:right;
 }
+.text-holder-right h1{
+    font-size: 30px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
 .text-holder-left{
     width: 750px;
     float:left;
+}
+.text-holder-left h1{
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 .info-image-right{
     width: 1000px;
@@ -133,3 +148,28 @@ hr{
     background-color: black;
     border: black;
 }
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 45px;
+}
+  
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+}
+  
+
+.sidenav a:hover {
+    color: white;
+}
+  
