@@ -186,3 +186,38 @@ nav a.active{
     color: white;
 }
 /*#endregion*/
+/* #region Donation Box styling */
+.donation-box{
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.donation-box h1{
+    font-size: 50px;
+    text-align: center;
+}
+.donation-box p{
+    font-size: 25px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.donation-box button{
+    width: 90%;
+    height: auto;
+    margin-left: 25px;
+    font-size: 20px;
+}
+.donation-box input{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+.donation-box label{
+    text-align: center;
+    width: 50px;
+    padding-left: 35px;
+}
+/* #endregion */
