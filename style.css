@@ -25,6 +25,9 @@ hr{
 div.video{
     text-align: center;
 }
+div.img{
+    text-align: center;
+}
 /*#endregion*/
 /*#region All pages styling*/
 .section-mains{
